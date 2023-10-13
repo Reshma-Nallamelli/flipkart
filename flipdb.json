@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "phone",
+      "brand": "apple",
+      "price": "99999",
+      "description": "very effective",
+      "thumbnail": "http://fog.com",
+      "id": 1
+    },
+    {
+      "productId": "2",
+      "title": "watch",
+      "brand": "titan",
+      "price": "999",
+      "description": "very beautiful",
+      "thumbnail": "http://youtube.com",
+      "id": 2
+    }
+  ]
+}
